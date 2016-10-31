@@ -16,7 +16,7 @@ googleAnalytics = ""
 
 	# Repository
 	provider = "GitHub"
-	repo_url = "https://github.com/magneticio/vamp"
+	repo_url = "https://github.com/Waziup/waziup.github.io"
 
 	version = "0.9.0"
 	logo = "images/logo.svg"
